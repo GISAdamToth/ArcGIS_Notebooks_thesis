@@ -1,0 +1,2 @@
+- spravit funkcie na zistovanie pritomnosti atributoveho pola a vrstvy v gdb a ich nasledneho vytvarania
+- nedavat do pola area_orig 2 udaje, pri druhom raze vytvorit nove pole, napr. area_clipped 
