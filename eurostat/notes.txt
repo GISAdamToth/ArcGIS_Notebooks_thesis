@@ -1,0 +1,8 @@
+- ukazat zaciatok, ze si viem vylistovat vsetky eurostat datasety
+- listovanie viem zuzit podla klucoveho slova v nazvoch datasetov
+- vyberiem si dataset, ulozim kod a ficim
+- dataset Human resources in science and technology (HRST) by NUTS 2 regions
+- zoznamenie sa s datasetom
+- zakladna mapka
+- graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
+- graf pre viacere, pripadne vsetky regiony, ale iba v jednom roku
