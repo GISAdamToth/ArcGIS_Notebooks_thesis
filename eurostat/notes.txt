@@ -3,6 +3,12 @@
 - vyberiem si dataset, ulozim kod a ficim
 - dataset Human resources in science and technology (HRST) by NUTS 2 regions
 - zoznamenie sa s datasetom
+- stiahnut nuts2 ako geojson
+- nacitat do gdf
+- vybrat len tie stlpce, ktore potrebujem
+- vybrat len tie nuts2, ktore su europa mainland
+- prevod z epsg:4326 do epsg:3035
+- najoinovanie datasetu do nuts_gdf
 - zakladna mapka
 - graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
 - graf pre viacere, pripadne vsetky regiony, ale iba v jednom roku
