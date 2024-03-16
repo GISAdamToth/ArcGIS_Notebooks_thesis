@@ -1,3 +1,4 @@
+hotovo:
 - ukazat zaciatok, ze si viem vylistovat vsetky eurostat datasety
 - listovanie viem zuzit podla klucoveho slova v nazvoch datasetov
 - vyberiem si dataset, ulozim kod a ficim
@@ -8,14 +9,13 @@
 - vybrat len tie stlpce, ktore potrebujem
 - vybrat len tie nuts2, ktore su europa mainland
 - prevod z epsg:4326 do epsg:3035
-- najoinovanie datasetu do nuts_gdf
-- zakladna mapka
-- graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
-- graf pre viacere, pripadne vsetky regiony, ale iba v jednom roku
-
+- najoinovanie/merge datasetu do nuts_gdf
+- zistit, ktore nuts2 nepresli mergom 
 
 co spravit:
-- zistit, ktore nuts2 nepresli mergom
 - vymysliet to, ako budem brat ten kod datasetu
 - upravit gdf.plot tak, aby to tam hadzalo ten attribution eurographics, nejaky title, mierku?, bez tych osi s 3035 suradnicami
 - najst minimum, maximum, median, priemer, medzikvartilove rozpatie, rozptyl, smerodajnu odchylku? v roku 2022
+- zakladna mapka
+- graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
+- graf pre viacere, pripadne vsetky regiony, ale iba v jednom roku
