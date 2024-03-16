@@ -12,3 +12,10 @@
 - zakladna mapka
 - graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
 - graf pre viacere, pripadne vsetky regiony, ale iba v jednom roku
+
+
+co spravit:
+- zistit, ktore nuts2 nepresli mergom
+- vymysliet to, ako budem brat ten kod datasetu
+- upravit gdf.plot tak, aby to tam hadzalo ten attribution eurographics, nejaky title, mierku?, bez tych osi s 3035 suradnicami
+- najst minimum, maximum, median, priemer, medzikvartilove rozpatie, rozptyl, smerodajnu odchylku? v roku 2022
