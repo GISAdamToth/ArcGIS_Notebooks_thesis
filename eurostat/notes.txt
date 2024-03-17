@@ -11,9 +11,9 @@ hotovo:
 - prevod z epsg:4326 do epsg:3035
 - najoinovanie/merge datasetu do nuts_gdf
 - zistit, ktore nuts2 nepresli mergom 
+- vymysliet to, ako budem brat ten kod datasetu = set_index(title) a daj mi code, ktory je na indexe Human resources in science...
 
 co spravit:
-- vymysliet to, ako budem brat ten kod datasetu
 - upravit gdf.plot tak, aby to tam hadzalo ten attribution eurographics, nejaky title, mierku?, bez tych osi s 3035 suradnicami
 - najst minimum, maximum, median, priemer, medzikvartilove rozpatie, rozptyl, smerodajnu odchylku? v roku 2022
 - zakladna mapka
