@@ -19,3 +19,4 @@ co spravit:
 - zakladna mapka
 - graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
 - graf pre viacere, pripadne vsetky regiony, ale iba v jednom roku
+- vytvorit si dataframe, kde stlpce budu nuts id, nuts name, 2011, ..., 2022 a riadky budu minimum, maximum, median, priemer, odhlahle hodnoty
