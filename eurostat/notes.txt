@@ -17,6 +17,7 @@ hotovo:
 
 co spravit:
 - najst minimum, maximum, median, priemer, medzikvartilove rozpatie, rozptyl, smerodajnu odchylku?, odlahle hodnoty v roku 2022
-- zakladna mapka = prejst do arcgis pro a spravit mapu tam, alebo cez plot alebo cez explore?
+- zakladna mapka = prejst do arcgis pro a spravit mapu tam, alebo cez plot alebo cez explore alebo cez leaflet js kod priamo v code cell?
+- top 5 and bottom 5 regions throughout the years
+- aggregate into countries - get the HRST for countries?
 - graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
-- graf pre viacere, pripadne vsetky regiony, ale iba v jednom roku = to bude v mape
