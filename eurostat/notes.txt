@@ -21,3 +21,6 @@ co spravit:
 - top 5 and bottom 5 regions throughout the years
 - aggregate into countries - get the HRST for countries?
 - graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
+
+legend scale=True : 30, 39, 46, 49, 52, 69
+legend scale=False : 30, 38, 46, 53, 61, 69
