@@ -14,13 +14,10 @@ hotovo:
 - vymysliet to, ako budem brat ten kod datasetu = set_index(title) a daj mi code, ktory je na indexe Human resources in science...
 - upravit gdf.plot tak, aby to tam hadzalo ten attribution eurographics, nejaky title, mierku?, bez tych osi s 3035 suradnicami
 - vytvorit si dataframe, kde stlpce budu 2011, ..., 2022 a riadky budu minimum, maximum, median, priemer
+- graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
+- najst minimum, maximum, median, priemer, medzikvartilove rozpatie, rozptyl, smerodajnu odchylku?, odlahle hodnoty v roku 2022
+- zakladna mapka = prejst do arcgis pro a spravit mapu tam, alebo cez plot alebo cez explore alebo cez leaflet js kod priamo v code cell? 
 
 co spravit:
-- najst minimum, maximum, median, priemer, medzikvartilove rozpatie, rozptyl, smerodajnu odchylku?, odlahle hodnoty v roku 2022
-- zakladna mapka = prejst do arcgis pro a spravit mapu tam, alebo cez plot alebo cez explore alebo cez leaflet js kod priamo v code cell?
 - top 5 and bottom 5 regions throughout the years
 - aggregate into countries - get the HRST for countries?
-- graf pre jeden region, pripadne regiony jedneho statu za viac rokov, pripadne aj cele sledovane obdobie
-
-legend scale=True : 30, 39, 46, 49, 52, 69
-legend scale=False : 30, 38, 46, 53, 61, 69
