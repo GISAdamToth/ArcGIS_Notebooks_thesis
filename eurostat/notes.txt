@@ -18,6 +18,7 @@ hotovo:
 - najst minimum, maximum, median, priemer, medzikvartilove rozpatie, rozptyl, smerodajnu odchylku?, odlahle hodnoty v roku 2022
 - zakladna mapka = prejst do arcgis pro a spravit mapu tam, alebo cez plot alebo cez explore alebo cez leaflet js kod priamo v code cell? 
 - top 5 and bottom 5 regions throughout the years
+- funkcie na top 5 a bottom 5
 
 co spravit:
-funkcie na top 5 a bottom 5
+- legenda v mapach top 5 a bottom 5: namiesto kodov nazvy
