@@ -1,1 +1,4 @@
 https://medium.com/@alexroz/6-python-libraries-to-make-beautiful-maps-9fb9edb28b27
+
+- pri tejto verzii vsecko ficalo iba mapping libs nie: matplotlib package version: 3.4.3
+- skuska upgradovat na najaktulnejsiu verziu
