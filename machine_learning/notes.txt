@@ -1,6 +1,0 @@
-ako zacat:
-- napisat Vojtovi Jaburkovi
-- napisat Misi Vojtechovskej
-- towards data science
-- kaggle
-- deep learning in arcgis pro
