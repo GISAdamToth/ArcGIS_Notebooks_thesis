@@ -1,2 +1,0 @@
-ulozit si pasma B3 a B11 do samostatnych zoznamov a potom pri vypocte ndsi staci prechadzat i in range(len(b3_bands)) 
-a ndsi = ((b3_bands[i]-b11_bands[i])/(b3_bands[i]+b11_bands[i]))

@@ -22,3 +22,4 @@ hotovo:
 
 co spravit:
 - legenda v mapach top 5 a bottom 5: namiesto kodov nazvy
+- doplnit nadpis a popis os v grafoch
