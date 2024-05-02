@@ -22,3 +22,6 @@ Requests             2.31.0
 Shapely              2.0.3
 Xarray               2022.11.0
 
+![obrázok](https://github.com/GISAdamToth/ArcGIS_Notebooks_thesis/assets/104213487/e163e492-8b26-41fb-9d28-98a0efd83a39)
+
+
